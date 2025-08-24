@@ -1,5 +1,11 @@
 # AI-Powered Automatic Door with Face Recognition  
 
+<p align="center">
+  <img src="image.png" alt="AI-Powered Automatic Door" width="100%">
+</p>
+
+---
+
 ## 📌 Overview  
 This project implements a **hands-free and secure automatic door system** powered by **AI-based face recognition**.  
 The system uses a **Raspberry Pi** for face detection and recognition, while an **Arduino** controls the servo motor and IR sensor for door automation.  
@@ -28,18 +34,21 @@ The system uses a **Raspberry Pi** for face detection and recognition, while an 
 ```text
 root/ 
 │ ├── faces/
-│   ├── person1_name.jpg 
-│   ├── person2_name.jpg 
-│   ├── person3_name.jpg 
-│   └── ...
+│ │ ├── person1_name.jpg
+│ │ ├── person2_name.jpg
+│ │ └── ...
+│ │
 │ ├── raspberry_pi/
-│   ├── door_face_recognition.py 
-│   └── requirements.txt 
+│ │ ├── door_face_recognition.py 
+│ │ └── requirements.txt 
+│ │
 │ ├── arduino/
-│   └── door_control.ino 
+│ │ └── door_control.ino 
+│ │
 │ ├── diagrams/
-│   ├── block_diagram.png 
-│   └── circuit_diagram.png 
+│ │ ├── block_diagram.png 
+│ │ └── circuit_diagram.png 
+│ │
 │ └── README.md
 ```
 
