@@ -51,11 +51,7 @@ root/
 │ │ └── requirements.txt 
 │ │
 │ ├── arduino/
-│ │ └── door_control.ino 
-│ │
-│ ├── diagrams/
-│ │ ├── block_diagram.png 
-│ │ └── circuit_diagram.png 
+│ │ └── door_control.ino
 │ │
 │ └── README.md
 ```
@@ -113,7 +109,7 @@ Arduino → (via USB) → Raspberry Pi
 
 Camera → Raspberry Pi
 ```
-- Block Diagram  → 
+
 ---
 
 ## 🌟 Enhancements
