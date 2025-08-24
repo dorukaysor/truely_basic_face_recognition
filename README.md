@@ -1,6 +1,6 @@
 # AI-Powered Automatic Door with Face Recognition  
 
-<p align="center">
+<div align="center">
   <img src="image.png" alt="AI-Powered Automatic Door" width="100%">
   
   <br>
@@ -10,7 +10,7 @@
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes%20By%20Doruk-green.svg)](https://github.com/dorukaysor/truely_basic_face_recognition/graphs/commit-activity)
   [![License](https://badgen.net/github/license/dorukaysor/truely_basic_face_recognition)](https://https://github.com/dorukaysor/truely_basic_face_recognition/LICENSE)
 
-</p>
+</div>
 
 ---
 
