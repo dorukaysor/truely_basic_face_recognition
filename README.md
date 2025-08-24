@@ -2,6 +2,15 @@
 
 <p align="center">
   <img src="image.png" alt="AI-Powered Automatic Door" width="100%">
+
+[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Arduino](https://img.shields.io/badge/Using-Arduino%20&%20Raspberry%20Pi-1f425f.svg)]()
+
+<br>
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes%20By%20Doruk-green.svg)](https://github.com/dorukaysor/truely_basic_face_recognition/graphs/commit-activity)
+[![License](https://badgen.net/github/license/dorukaysor/truely_basic_face_recognition)](https://https://github.com/dorukaysor/truely_basic_face_recognition/LICENSE)
+
 </p>
 
 ---
@@ -38,7 +47,7 @@ root/
 │ │ ├── person2_name.jpg
 │ │ └── ...
 │ │
-│ ├── raspberry_pi/
+│ ├── pi/
 │ │ ├── door_face_recognition.py 
 │ │ └── requirements.txt 
 │ │
@@ -90,11 +99,22 @@ python3 raspberry_pi/door_face_recognition.py
 
 ---
 
-## 🔌 Wiring Diagram
+## 🔌 Wiring
 
-- Block Diagram
-- Circuit Diagram
+```text
+IR sensor OUT → Arduino D2
 
+Servo signal wire → Arduino D9
+
+Servo +V → 5V external power
+
+Servo GND → Arduino GND + Power supply GND
+
+Arduino → (via USB) → Raspberry Pi
+
+Camera → Raspberry Pi
+```
+- Block Diagram  → 
 ---
 
 ## 🌟 Enhancements
