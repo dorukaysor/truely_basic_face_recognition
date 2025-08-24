@@ -1,7 +1,5 @@
 # AI-Powered Automatic Door with Face Recognition  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 📌 Overview  
 This project implements a **hands-free and secure automatic door system** powered by **AI-based face recognition**.  
 The system uses a **Raspberry Pi** for face detection and recognition, while an **Arduino** controls the servo motor and IR sensor for door automation.  
@@ -13,7 +11,7 @@ The system uses a **Raspberry Pi** for face detection and recognition, while an 
 4. If recognized → Arduino receives signal → servo opens the door.  
 5. After a delay → door closes automatically.  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🛠️ Components Required  
 - **Raspberry Pi 4** (with Camera Module or USB Webcam)  
@@ -23,7 +21,7 @@ The system uses a **Raspberry Pi** for face detection and recognition, while an 
 - **Breadboard + Jumper Wires**  
 - **Power Supply (5V 3A for Pi, 5V external for servo)**  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📂 Project Structure
 
@@ -45,7 +43,7 @@ root/
 │ └── README.md
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🚀 Setup  
 
@@ -81,13 +79,13 @@ Place clear face images inside the faces/ folder.
 
 Example: faces/person1_name.jpg → this is an authorized user.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🔌 Wiring Diagram
 - Block Diagram
-- Circuit Diagram 
+- Circuit Diagram
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🌟 Enhancements
 
@@ -98,8 +96,6 @@ Example: faces/person1_name.jpg → this is an authorized user.
 - 🔑 RFID/OTP as backup entry.
 
 - 🔋 Battery backup system.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📜 License
 
