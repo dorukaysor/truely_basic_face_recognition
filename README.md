@@ -6,10 +6,10 @@
   <br>
 
   [![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-  [![Arduino](https://img.shields.io/badge/Using-Arduino%20&%20Raspberry%20Pi-1f425f.svg)]()
+  [![Arduino](https://img.shields.io/badge/Using-Arduino%20&%20Raspberry%20Pi-1f425f.svg)](https://github.com/dorukaysor/truely_basic_face_recognition/)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes%20By%20Doruk-green.svg)](https://github.com/dorukaysor/truely_basic_face_recognition/graphs/commit-activity)
-  [![License](https://badgen.net/github/license/dorukaysor/truely_basic_face_recognition)](https://github.com/dorukaysor/truely_basic_face_recognition/LICENSE)
-
+  [![License](https://badgen.net/github/license/dorukaysor/truely_basic_face_recognition)](LICENSE)
+  
 </div>
 
 ---
