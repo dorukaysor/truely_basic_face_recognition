@@ -99,5 +99,5 @@ Example: faces/person1_name.jpg → this is an authorized user.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 Feel free to modify and use it in your own projects!
