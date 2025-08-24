@@ -76,7 +76,7 @@ python3 raspberry_pi/door_face_recognition.py
 
 ### 🔹 Arduino
 
-1. Open arduino/door_control.ino in Arduino IDE.
+1. Open [`arduino/door_control.ino`](arduino/door_control.ino) in Arduino IDE.
 
 2. Select the correct board and port.
 
@@ -84,13 +84,14 @@ python3 raspberry_pi/door_face_recognition.py
 
 ### 🔹 Faces Database
 
-Place clear face images inside the faces/ folder.
+- Place clear face images inside the [`faces/`](faces/) folder.
 
-Example: faces/person1_name.jpg → this is an authorized user.
+- **Example:** `faces/person1_name.jpg` → this is an authorized user.
 
 ---
 
 ## 🔌 Wiring Diagram
+
 - Block Diagram
 - Circuit Diagram
 
@@ -105,6 +106,8 @@ Example: faces/person1_name.jpg → this is an authorized user.
 - 🔑 RFID/OTP as backup entry.
 
 - 🔋 Battery backup system.
+
+---
 
 ## 📜 License
 
